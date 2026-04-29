@@ -1,5 +1,5 @@
 [package]
-name = "netlink-packet-utils"
+name = "nsproxy-netlink-packet-utils"
 version = "0.6.0"
 authors = ["Corentin Henry <corentinhenry@gmail.com>"]
 edition = "2018"
